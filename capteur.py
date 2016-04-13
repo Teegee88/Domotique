@@ -1,0 +1,4 @@
+class Capteur:
+	nom = "oyy"
+
+	
