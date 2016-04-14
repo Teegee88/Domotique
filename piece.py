@@ -7,3 +7,4 @@ class Piece:
 		name = "Teegee"
 		name2 = "David"
 		print "Hello, %s!" %name
+		print "Hello, %s" %name2
