@@ -1,2 +1,2 @@
-class Consigne:
+class consigne:
 	
